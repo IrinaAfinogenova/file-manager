@@ -1,0 +1,16 @@
+
+{
+    "name": "file-manager",
+    "version": "1.0.0",
+    "description": "file manager rs school task",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/IrinaAfinogenova/file-manager.git"
+    },
+    "author": "IrinaAfinogenova",
+    "license": "ISC"
+  }
